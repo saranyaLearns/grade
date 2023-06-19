@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grade/static/css/main.52a401ea.css",
+    "main.js": "/grade/static/js/main.ee47bd70.js",
+    "static/js/787.0c3f432a.chunk.js": "/grade/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/grade/index.html",
+    "main.52a401ea.css.map": "/grade/static/css/main.52a401ea.css.map",
+    "main.ee47bd70.js.map": "/grade/static/js/main.ee47bd70.js.map",
+    "787.0c3f432a.chunk.js.map": "/grade/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52a401ea.css",
+    "static/js/main.ee47bd70.js"
+  ]
+}
